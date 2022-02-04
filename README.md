@@ -6,8 +6,7 @@ Repositório criado para o desafio de projeto da [Digital Innovation One](web.di
 
 Utilizamos o comando **git clone** seguido da URL HTTPS do projeto.  
 exemplo: 
-> git clone https://github.com/dam450/git-dio-challenge.git 
-
+> `git clone https://github.com/dam450/git-dio-challenge.git`
 
 ## Links úteis
 
