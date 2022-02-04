@@ -1,5 +1,6 @@
 # Desafio Git/Github
 
+Repositório criado para o desafio de projeto da [Digital Innovation One](web.dio.me).
 
 
 ## Links úteis
