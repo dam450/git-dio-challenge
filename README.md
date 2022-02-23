@@ -7,13 +7,14 @@ Repositório criado para o desafio de projeto da [Digital Innovation One](web.di
 Faça o download do instalado do git através do site oficial [https://git-scm.com/downloads](https://git-scm.com/downloads). 
 
 Após a instalação execute o **git bash**, este é o *prompt* de comandos onde são executadas todas a funções do **git**. 
-### 🔧 Configurando nome de usuário no git
+
+### 🔧 Configurando nome de usuário
 
 No *prompt* do **git** execute o comando **git config** com os parâmetros **--global user.name** e seu nome de usuário, este nome será gravado globalmente para todo seus projetos.
 
 > `$ git config --global user.name "meu nome"`
 
-### 🪛 Configurando e-mail no git
+### 🪛 Configurando e-mail
 
 Para configurar seu e-mail no **git**, no *prompt* execute o comando **git config** seguido dos parâmentros **--global user.mail** para definir o e-mail globalmente.
 
