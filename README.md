@@ -2,6 +2,8 @@
 
 Repositório criado para o desafio de projeto da [Digital Innovation One](web.dio.me).
 
+Para mais comandos consulte a [Wiki](https://github.com/dam450/git-dio-challenge/wiki) do projeto.
+
 ## ⚙️ Instalando o Git
 
 Faça o download do instalado do git através do site oficial [https://git-scm.com/downloads](https://git-scm.com/downloads). 
